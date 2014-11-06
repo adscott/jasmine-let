@@ -1,0 +1,22 @@
+{
+  "name": "jasmine-let",
+  "version": "0.2.0",
+  "description": "Lazy variable evaluation for Jasmine specs",
+  "main": "jasmine-let.js",
+  "scripts": {
+    "test": "NODE_PATH='./' node spec/node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xaethos/jasmine-let"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xaethos/jasmine-let/issues"
+  },
+  "homepage": "https://github.com/xaethos/jasmine-let",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
